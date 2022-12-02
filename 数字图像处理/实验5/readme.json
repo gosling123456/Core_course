@@ -1,0 +1,396 @@
+{
+    "all_class_images": 16151,
+    "all_class_name": "dataset",
+    "class_detail": [
+        {
+            "class_eval_images": 72,
+            "class_label": 0,
+            "class_name": "0",
+            "class_trainer_images": 643
+        },
+        {
+            "class_eval_images": 52,
+            "class_label": 1,
+            "class_name": "1",
+            "class_trainer_images": 465
+        },
+        {
+            "class_eval_images": 61,
+            "class_label": 2,
+            "class_name": "2",
+            "class_trainer_images": 540
+        },
+        {
+            "class_eval_images": 59,
+            "class_label": 3,
+            "class_name": "3",
+            "class_trainer_images": 528
+        },
+        {
+            "class_eval_images": 41,
+            "class_label": 4,
+            "class_name": "4",
+            "class_trainer_images": 360
+        },
+        {
+            "class_eval_images": 98,
+            "class_label": 5,
+            "class_name": "5",
+            "class_trainer_images": 875
+        },
+        {
+            "class_eval_images": 76,
+            "class_label": 6,
+            "class_name": "6",
+            "class_trainer_images": 682
+        },
+        {
+            "class_eval_images": 83,
+            "class_label": 7,
+            "class_name": "7",
+            "class_trainer_images": 741
+        },
+        {
+            "class_eval_images": 116,
+            "class_label": 8,
+            "class_name": "8",
+            "class_trainer_images": 1036
+        },
+        {
+            "class_eval_images": 117,
+            "class_label": 9,
+            "class_name": "9",
+            "class_trainer_images": 1049
+        },
+        {
+            "class_eval_images": 102,
+            "class_label": 10,
+            "class_name": "A",
+            "class_trainer_images": 911
+        },
+        {
+            "class_eval_images": 43,
+            "class_label": 11,
+            "class_name": "B",
+            "class_trainer_images": 379
+        },
+        {
+            "class_eval_images": 30,
+            "class_label": 12,
+            "class_name": "C",
+            "class_trainer_images": 270
+        },
+        {
+            "class_eval_images": 13,
+            "class_label": 13,
+            "class_name": "cuan",
+            "class_trainer_images": 113
+        },
+        {
+            "class_eval_images": 22,
+            "class_label": 14,
+            "class_name": "D",
+            "class_trainer_images": 191
+        },
+        {
+            "class_eval_images": 30,
+            "class_label": 15,
+            "class_name": "E",
+            "class_trainer_images": 269
+        },
+        {
+            "class_eval_images": 7,
+            "class_label": 16,
+            "class_name": "e1",
+            "class_trainer_images": 56
+        },
+        {
+            "class_eval_images": 24,
+            "class_label": 17,
+            "class_name": "F",
+            "class_trainer_images": 214
+        },
+        {
+            "class_eval_images": 27,
+            "class_label": 18,
+            "class_name": "G",
+            "class_trainer_images": 239
+        },
+        {
+            "class_eval_images": 8,
+            "class_label": 19,
+            "class_name": "gan",
+            "class_trainer_images": 72
+        },
+        {
+            "class_eval_images": 5,
+            "class_label": 20,
+            "class_name": "gan1",
+            "class_trainer_images": 41
+        },
+        {
+            "class_eval_images": 6,
+            "class_label": 21,
+            "class_name": "gui",
+            "class_trainer_images": 47
+        },
+        {
+            "class_eval_images": 4,
+            "class_label": 22,
+            "class_name": "gui1",
+            "class_trainer_images": 28
+        },
+        {
+            "class_eval_images": 22,
+            "class_label": 23,
+            "class_name": "H",
+            "class_trainer_images": 191
+        },
+        {
+            "class_eval_images": 11,
+            "class_label": 24,
+            "class_name": "hei",
+            "class_trainer_images": 90
+        },
+        {
+            "class_eval_images": 21,
+            "class_label": 25,
+            "class_name": "hu",
+            "class_trainer_images": 182
+        },
+        {
+            "class_eval_images": 17,
+            "class_label": 26,
+            "class_name": "J",
+            "class_trainer_images": 147
+        },
+        {
+            "class_eval_images": 10,
+            "class_label": 27,
+            "class_name": "ji",
+            "class_trainer_images": 85
+        },
+        {
+            "class_eval_images": 24,
+            "class_label": 28,
+            "class_name": "jin",
+            "class_trainer_images": 216
+        },
+        {
+            "class_eval_images": 15,
+            "class_label": 29,
+            "class_name": "jing",
+            "class_trainer_images": 132
+        },
+        {
+            "class_eval_images": 6,
+            "class_label": 30,
+            "class_name": "jl",
+            "class_trainer_images": 46
+        },
+        {
+            "class_eval_images": 27,
+            "class_label": 31,
+            "class_name": "K",
+            "class_trainer_images": 239
+        },
+        {
+            "class_eval_images": 27,
+            "class_label": 32,
+            "class_name": "L",
+            "class_trainer_images": 238
+        },
+        {
+            "class_eval_images": 8,
+            "class_label": 33,
+            "class_name": "liao",
+            "class_trainer_images": 71
+        },
+        {
+            "class_eval_images": 11,
+            "class_label": 34,
+            "class_name": "lu",
+            "class_trainer_images": 93
+        },
+        {
+            "class_eval_images": 25,
+            "class_label": 35,
+            "class_name": "M",
+            "class_trainer_images": 218
+        },
+        {
+            "class_eval_images": 6,
+            "class_label": 36,
+            "class_name": "meng",
+            "class_trainer_images": 47
+        },
+        {
+            "class_eval_images": 7,
+            "class_label": 37,
+            "class_name": "min",
+            "class_trainer_images": 60
+        },
+        {
+            "class_eval_images": 21,
+            "class_label": 38,
+            "class_name": "N",
+            "class_trainer_images": 182
+        },
+        {
+            "class_eval_images": 4,
+            "class_label": 39,
+            "class_name": "ning",
+            "class_trainer_images": 28
+        },
+        {
+            "class_eval_images": 18,
+            "class_label": 40,
+            "class_name": "P",
+            "class_trainer_images": 160
+        },
+        {
+            "class_eval_images": 13,
+            "class_label": 41,
+            "class_name": "Q",
+            "class_trainer_images": 113
+        },
+        {
+            "class_eval_images": 4,
+            "class_label": 42,
+            "class_name": "qing",
+            "class_trainer_images": 32
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 43,
+            "class_name": "qiong",
+            "class_trainer_images": 27
+        },
+        {
+            "class_eval_images": 17,
+            "class_label": 44,
+            "class_name": "R",
+            "class_trainer_images": 148
+        },
+        {
+            "class_eval_images": 17,
+            "class_label": 45,
+            "class_name": "S",
+            "class_trainer_images": 147
+        },
+        {
+            "class_eval_images": 8,
+            "class_label": 46,
+            "class_name": "shan",
+            "class_trainer_images": 65
+        },
+        {
+            "class_eval_images": 22,
+            "class_label": 47,
+            "class_name": "su",
+            "class_trainer_images": 197
+        },
+        {
+            "class_eval_images": 10,
+            "class_label": 48,
+            "class_name": "sx",
+            "class_trainer_images": 82
+        },
+        {
+            "class_eval_images": 12,
+            "class_label": 49,
+            "class_name": "T",
+            "class_trainer_images": 107
+        },
+        {
+            "class_eval_images": 11,
+            "class_label": 50,
+            "class_name": "U",
+            "class_trainer_images": 97
+        },
+        {
+            "class_eval_images": 8,
+            "class_label": 51,
+            "class_name": "V",
+            "class_trainer_images": 72
+        },
+        {
+            "class_eval_images": 11,
+            "class_label": 52,
+            "class_name": "W",
+            "class_trainer_images": 90
+        },
+        {
+            "class_eval_images": 18,
+            "class_label": 53,
+            "class_name": "wan",
+            "class_trainer_images": 154
+        },
+        {
+            "class_eval_images": 11,
+            "class_label": 54,
+            "class_name": "X",
+            "class_trainer_images": 92
+        },
+        {
+            "class_eval_images": 9,
+            "class_label": 55,
+            "class_name": "xiang",
+            "class_trainer_images": 81
+        },
+        {
+            "class_eval_images": 2,
+            "class_label": 56,
+            "class_name": "xin",
+            "class_trainer_images": 17
+        },
+        {
+            "class_eval_images": 14,
+            "class_label": 57,
+            "class_name": "Y",
+            "class_trainer_images": 120
+        },
+        {
+            "class_eval_images": 17,
+            "class_label": 58,
+            "class_name": "yu",
+            "class_trainer_images": 152
+        },
+        {
+            "class_eval_images": 5,
+            "class_label": 59,
+            "class_name": "yu1",
+            "class_trainer_images": 37
+        },
+        {
+            "class_eval_images": 16,
+            "class_label": 60,
+            "class_name": "yue",
+            "class_trainer_images": 144
+        },
+        {
+            "class_eval_images": 4,
+            "class_label": 61,
+            "class_name": "yun",
+            "class_trainer_images": 31
+        },
+        {
+            "class_eval_images": 10,
+            "class_label": 62,
+            "class_name": "Z",
+            "class_trainer_images": 88
+        },
+        {
+            "class_eval_images": 1,
+            "class_label": 63,
+            "class_name": "zang",
+            "class_trainer_images": 5
+        },
+        {
+            "class_eval_images": 26,
+            "class_label": 64,
+            "class_name": "zhe",
+            "class_trainer_images": 234
+        }
+    ]
+}

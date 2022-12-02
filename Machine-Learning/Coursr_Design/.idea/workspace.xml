@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="534d16d3-b52c-4e65-a402-2c131f31c3f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Experiment2/detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiment2/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiment2/涨知识.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../形式语言与自动机(编译原理）/实验2/code_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数字图像处理/实验5/OCR.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数字图像处理/实验5/crnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数字图像处理/实验5/ocr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数字图像处理/实验5/ocr识别.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数字图像处理/实验5/paddleocr_Gosling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data-Structre/LinearList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data-Structre/LinkList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NLP/202018526-高树林-NLP实验4/code2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../NLP/202018526-高树林-NLP实验4/code2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../形式语言与自动机/实验1/202018526高树林-形式语言与自动机-实验1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../形式语言与自动机/实验2/202018526高树林-形式语言与自动机-实验2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../形式语言与自动机/实验3/202018526高树林-形式语言与自动机-实验3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../形式语言与自动机/实验4/202018526高树林-形式语言与自动机-实验4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数字图像处理/实验5/DNN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数字图像处理/实验5/DNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数字图像处理/实验5/MyDNN.pdparams" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数字图像处理/实验5/readme.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数字图像处理/实验5/train_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数字图像处理/实验5/val_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/mysql实验1 MySQL的安装与使用-2020 .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/mysql实验2MySQL建表实验-电子杂志订阅表.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/mysql实验3 数据表的创建修改与约束管理实验2020.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/mysql实验3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/mysql实验4 电子商务网站的数据库设计.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/mysql实验5 商品评论表的实现.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/mysql实验6 多表查询-2020.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/实验6命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/数据库实验4命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据库/数据库配置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../机器视觉/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I5cmaLYFrvber7sMzrM198Ne8h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/2020185 _and_10208/Kernel_Class/Machine-Learning/Coursr_Design/Experiment2&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2020185 _and_10208\Kernel_Class\Machine-Learning\Coursr_Design\Experiment2" />
+      <recent name="D:\2020185 _and_10208\Kernel_Class\Machine-Learning\Coursr_Design\实验2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\2020185 _and_10208\Kernel_Class\Machine-Learning\Coursr_Design\实验1\FIFA2022" />
+      <recent name="D:\2020185 _and_10208\Kernel_Class\Machine-Learning\Coursr_Design\实验1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.detect">
+    <configuration name="试错" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2/试错.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dif转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Deeplearning/PythonProjects/MyLibraries" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Deeplearning/PythonProjects/MyLibraries/Dif转换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="话音录制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\2020185 _and_10208\Kernel_Class\Machine-Learning\Coursr_Design\Experiment2\话音录制.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="线程话音录制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2/线程话音录制.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="代码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2/代码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="调试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2/调试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="调试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2/调试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="change_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2/test/change_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2/detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursr_Design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment2/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detect" />
+        <item itemvalue="Python.试错" />
+        <item itemvalue="Python.Dif转换" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.change_name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="534d16d3-b52c-4e65-a402-2c131f31c3f4" name="Changes" comment="" />
+      <created>1669475045518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669475045518</updated>
+      <workItem from="1669475047472" duration="25365000" />
+      <workItem from="1669542836489" duration="133000" />
+      <workItem from="1669543630507" duration="2406000" />
+      <workItem from="1669546064869" duration="4094000" />
+      <workItem from="1669553071860" duration="1387000" />
+      <workItem from="1669554492816" duration="717000" />
+      <workItem from="1669555754146" duration="1393000" />
+      <workItem from="1669557230221" duration="8509000" />
+      <workItem from="1669567185918" duration="1976000" />
+      <workItem from="1669603856861" duration="23565000" />
+      <workItem from="1669641183666" duration="9240000" />
+      <workItem from="1669688857933" duration="594000" />
+      <workItem from="1669729915169" duration="8800000" />
+      <workItem from="1669739646231" duration="1449000" />
+      <workItem from="1669768677791" duration="953000" />
+      <workItem from="1669770461504" duration="1249000" />
+      <workItem from="1669775043360" duration="8000" />
+      <workItem from="1669775225854" duration="14782000" />
+      <workItem from="1669811652436" duration="4260000" />
+      <workItem from="1669816120409" duration="260000" />
+      <workItem from="1669817151787" duration="22228000" />
+      <workItem from="1669879977805" duration="20828000" />
+      <workItem from="1669944972897" duration="18210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Coursr_Design$.coverage" NAME="莫大神可视化 Coverage Results" MODIFIED="1669652483911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2" />
+    <SUITE FILE_PATH="coverage/_ipynb$train.coverage" NAME="train Coverage Results" MODIFIED="1669826616309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2" />
+    <SUITE FILE_PATH="coverage/train_py$train.coverage" NAME="train Coverage Results" MODIFIED="1669894322018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2" />
+    <SUITE FILE_PATH="coverage/train_py$Dif.coverage" NAME="Dif转换 Coverage Results" MODIFIED="1669899611345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../Deeplearning/PythonProjects/MyLibraries" />
+    <SUITE FILE_PATH="coverage/train_py$.coverage" NAME="试错 Coverage Results" MODIFIED="1669906942322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2" />
+    <SUITE FILE_PATH="coverage/_ipynb$detect.coverage" NAME="detect Coverage Results" MODIFIED="1669879518023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2" />
+    <SUITE FILE_PATH="coverage/_ipynb$change_name.coverage" NAME="change_name Coverage Results" MODIFIED="1669879045169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2/test" />
+    <SUITE FILE_PATH="coverage/Coursr_Design$111.coverage" NAME="111 Coverage Results" MODIFIED="1669618003053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2" />
+    <SUITE FILE_PATH="coverage/Coursr_Design$code_gosling.coverage" NAME="code_gosling Coverage Results" MODIFIED="1669648940065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2" />
+    <SUITE FILE_PATH="coverage/train_py$detect.coverage" NAME="detect Coverage Results" MODIFIED="1669957767798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment2" />
+  </component>
+</project>
